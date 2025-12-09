@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "716697416914",
+    "project_id": "snapdream2920",
+    "storage_bucket": "snapdream2920.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716697416914:android:7ada17fab346dd2d6d690b",
+        "android_client_info": {
+          "package_name": "blue.house_iso.snapdream_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmKSki9W71BsbV6xiPrOjkGsJysSF7mOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716697416914:android:8df5d088de5b16aa6d690b",
+        "android_client_info": {
+          "package_name": "blue_house.napdream_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmKSki9W71BsbV6xiPrOjkGsJysSF7mOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716697416914:android:5905c65c6b7d5c106d690b",
+        "android_client_info": {
+          "package_name": "com.example.snapdream_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmKSki9W71BsbV6xiPrOjkGsJysSF7mOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
